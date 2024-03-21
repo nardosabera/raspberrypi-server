@@ -1,6 +1,6 @@
 # Raspberry Pi Server
 
-<img src="and.jpg" alt="and" width="900"/>
+<img src="and.jpg" alt="and" width="500"/>
 
 The Raspberry Pi 3model B+ is a small, powerful computer that's great for LAMP projects. It has everything I need to run a LAMP Server : a fast processor, 1GB of RAM, built-in WI-FI, and Ethernet.
 
@@ -11,7 +11,7 @@ For the Web server, I used **Linux** as my Operating System, **Apache Web Server
 
 **2.Install apache:** After setting up my Raspberry Pi I started installing Apache by using the following command on my terminal: `sudo apt-get install Apache2`. Once I have got Apache installed, I go to Apache default web page on my raspberry pi and test my Webserver whether its working or not. 
 
-** 3.Installing PHP:** Installing PHP package with `sudo apt-get install php -y` and testing PHP by creating a file in the Apache Web root directory.
+**3.Installing PHP:** Installing PHP package with `sudo apt-get install php -y` and testing PHP by creating a file in the Apache Web root directory.
  
 **4.Installing MySQL:** Installing MySQL by running `sudo apt-get install mariadb-server php-mysql -y`.
 
